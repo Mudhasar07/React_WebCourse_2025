@@ -1,4 +1,3 @@
-const heading1 = document.createElement("h1");
-heading1.innerHTML = "Hello World From Plain JavaScript";
-const root = document.getElementById("root");
-root.appendChild(heading1)
+const heading1 = React.createElement("h1",{}, "Hello world from React CDN");
+const root = ReactDOM.createRoot(document.getElementById("root"))
+root.render(heading1);
