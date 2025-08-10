@@ -1,0 +1,32 @@
+{
+  "name": "react-webcourse-2025",
+  "version": "1.0.0",
+  "description": "New_React_HandsOn",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mudhasar07/React_WebCourse_2025.git"
+  },
+  "keywords": [
+    "React",
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Mudhasar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mudhasar07/React_WebCourse_2025/issues"
+  },
+  "homepage": "https://github.com/Mudhasar07/React_WebCourse_2025#readme",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "reactdom": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
